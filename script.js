@@ -16,6 +16,7 @@ const khodams = [
     {name: 'Khodam Ular Naga', image: 'assets/ularnaga.jpg'},
     {name: 'Khodam Nyi Roro Kidul', image: 'assets/roro.jpeg'},
     {name: 'Khodam Dewa Zeus', image: 'assets/zeus.jpeg'}
+    {name: 'Khodam Kuda', image: 'assets/kuda.jpeg'}
 ];
 
 // Function to hash the name and map it to an index
