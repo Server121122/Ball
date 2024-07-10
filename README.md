@@ -1,2 +1,0 @@
-# Ball
-Halo cuy
